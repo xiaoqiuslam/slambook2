@@ -1,3 +1,7 @@
+## ch3
+slambook2/ch3/CMakeLists.txt
+set(CMAKE_CXX_STANDARD 14)
+
 ## Slambook2
 ![titlepage](./figures/title.png)
 
